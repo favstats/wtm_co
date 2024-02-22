@@ -1,56 +1,56 @@
 id,name,created_at,advertisers_entities.id,entities.short_name,countries.name,countries.alpha2,advertisers_platforms.advertiser_platform_ref,advertisers_platforms.advertiser_platform_name,platforms.name
-1cd7f738-db1b-4c47-9499-560ac220d325,Academia de conduccion ovallos c&d,2023-02-08T05:55:36.380Z,91f935e9-e4cb-4fa6-9bbb-5aa418075394,ZZZ,Colombia,co,105039621015106,Academia de conduccion ovallos c&d,Facebook
-6a24ea26-da4d-4855-a68c-f1b9883c6670,Liliana Támara,2023-10-02T05:06:15.614Z,d334bab4-88b7-407c-82c0-20caa4177708,ZZZ,Colombia,co,122652437601279,Liliana Támara,Facebook
-a97994db-50e1-4467-b420-c667d7ab4405,Tu Abogado Laboralista,2023-06-24T06:46:58.724Z,ad07d430-2278-4e90-9211-6805bc89c9b2,ZZZ,Colombia,co,292481564978722,Tu Abogado Laboralista,Facebook
-303b9658-d56c-4759-88af-c6f4668d07a1,Ricardo Giraldo Abogados,2023-07-13T06:24:49.906Z,2f671a05-9f71-448f-bc35-02ae59674625,ZZZ,Colombia,co,118632684582919,Ricardo Giraldo Abogados,Facebook
-d43a7205-3e3f-4e10-a83d-f051bfff3e5d,PSA Abogados Empresarial,2023-03-08T20:13:34.934Z,aedbdb58-b7d2-4680-9966-a9cead7926fc,ZZZ,Colombia,co,101746488178952,PSA Abogados Empresarial,Facebook
-ccfcd219-68cf-45ed-aa78-6bb5c8c57b31,jsrabogado,2023-06-23T05:16:16.708Z,f8751641-56dc-436b-a57d-5b99b2b4dc1e,ZZZ,Colombia,co,102823732771206,jsrabogado,Facebook
-c2beb1ea-d35e-4544-8beb-20b8ea894411,KM Abogados SAS,2023-12-11T06:41:01.378Z,9eebc10e-8a83-45c6-abc2-a2d2eafb1782,ZZZ,Colombia,co,1718079098422205,KM Abogados SAS,Facebook
-0a6ab2ad-6d12-4f09-bdec-c96330daf27a,Academia Ross Mary,2023-07-07T13:15:51.730Z,6ace6a97-69c6-442e-9bed-664286eff78b,ZZZ,Colombia,co,1610792219030527,Academia Ross Mary,Facebook
-0520df0e-1169-4e1f-b723-ad7f605ec169,Academia De Belleza Herman,2023-03-25T10:52:19.038Z,f4366514-5f1e-4c3f-8756-b4fbcc45e61b,ZZZ,Colombia,co,209951072431179,Academia De Belleza Herman,Facebook
-45b804b2-4d27-4873-adb3-07b6d6c58f6d,Juridgroup Abogados,2023-06-26T05:07:47.231Z,36444b72-2357-4773-8bc9-767d0d17df9d,ZZZ,Colombia,co,1723577177928669,Juridgroup Abogados,Facebook
-547049d8-02f4-494d-81af-5f3f85c4c630,B & V Abogados,2023-12-03T05:06:32.529Z,bac0079c-d8d7-42a0-a29e-3fe4c9369cdf,ZZZ,Colombia,co,391368718341581,B & V Abogados,Facebook
-2cb2e456-e410-4d96-bbc0-884dd3970fd8,Andap Nacional,2023-05-08T06:52:21.063Z,677c8e2b-8fdd-45cb-8b8d-16d379d50bc9,ZZZ,Colombia,co,517403111646259,Andap Nacional,Facebook
-ec732ba0-ede2-48b8-9746-6c10c9c91fea,Nisimblat Lawyers Oficina de Abogados,2023-03-08T17:23:02.452Z,87c269d7-120a-4c81-97ac-ff2094c547c3,ZZZ,Colombia,co,108620774140165,Nisimblat Lawyers Oficina de Abogados,Facebook
-18f51c47-6e7c-456c-9ea0-31ef7649bbef,Bonilla Perlaza Abogados,2023-10-01T05:06:44.877Z,58734c34-c65c-4e9c-9a12-dbf04d7c7c2c,ZZZ,Colombia,co,385520915191657,Bonilla Perlaza Abogados,Facebook
-e7df3a02-c5a0-4e58-a76b-1ff767f271db,Carlos Alfredo García - Abogado,2023-02-07T15:05:56.862Z,aa06f18e-f748-4c37-9e90-b3ef5e437951,ZZZ,Colombia,co,1588561874548381,Carlos Alfredo García - Abogado,Facebook
-eff1ff9a-1092-44dc-81f0-3bf95d6a99fe,Aiala Juris Abogados,2023-04-16T15:04:46.077Z,bfac750f-baa7-43dd-8bdc-6e1ecfc85386,ZZZ,Colombia,co,101360308679529,Aiala Juris Abogados,Facebook
-353d793b-ae3e-4266-9ae0-b280c6f3b78d,Academia de arte y teatrino Don Eloy,2023-10-22T05:06:47.189Z,f062ff16-1810-49fa-a65d-3891dbe4beca,ZZZ,Colombia,co,256572477846550,Academia de arte y teatrino Don Eloy,Facebook
-bcbe7470-d7c9-4f80-a71c-6a9f81b5b01d,EstradaysanchezAbogados,2023-08-21T05:07:17.173Z,3f38975e-2bcc-4719-ae69-28b66db3693e,ZZZ,Colombia,co,121867442540105,EstradaysanchezAbogados,Facebook
-c0f49c33-7bff-48cc-b488-4c8f50e050eb,Academia Americana de Inglés,2023-10-12T05:08:58.992Z,c94b90b3-b8e5-4adc-abe9-e981da39865e,ZZZ,Colombia,co,111286938517108,Academia Americana de Inglés,Facebook
-18158668-d5f1-4f6d-84c3-01c0e4e9a898,Colectivo de Abogados,2023-02-07T15:05:56.804Z,517c0a1c-aa7e-4304-af21-92ed0aff2c56,ZZZ,Colombia,co,75884689790,Colectivo de Abogados,Facebook
-916f829a-78aa-4253-97d3-e59fd7fe8bbd,Jairo A. Tobaria,2023-05-23T06:52:41.400Z,13ef58a5-ae05-4bc5-b239-6ed7e4f79b43,ZZZ,Colombia,co,108163305403611,Jairo A. Tobaria,Facebook
-e3d1583c-990e-4f8b-93d0-6c3aa730c12c,Isaías Corredor Abogado,2023-07-17T09:52:06.911Z,a8dadd7c-5484-42b2-a04a-4a039ae1cbc8,ZZZ,Colombia,co,101547452482548,Isaías Corredor Abogado,Facebook
-f921899b-68e8-4c94-9698-f2dd1d88b1ec,Sterling Lawyers Abogados,2023-11-10T06:23:06.593Z,a7472e2e-ba28-48f0-8e7e-b26cd11ec137,ZZZ,Colombia,co,111768733629155,Sterling Lawyers Abogados,Facebook
-3946e99d-7153-4a1b-8b00-68a120311569,Avenicio Abogado & Asociados,2023-08-18T05:06:54.854Z,0f6b4388-65aa-4e0d-bb3c-40cb21df13f5,ZZZ,Colombia,co,1049839801859984,Avenicio Abogado & Asociados,Facebook
-b390f0c4-4a74-4bfa-8187-8984d1d8e487,ɪᴜꜱ ᴇʟᴇᴄᴛɪ ᴀʙᴏɢᴀᴅᴏs,2023-11-18T05:06:28.752Z,3b1a5c1e-f63c-4c4e-bea9-a32faf6a635e,ZZZ,Colombia,co,106058462189530,ɪᴜꜱ ᴇʟᴇᴄᴛɪ ᴀʙᴏɢᴀᴅᴏs,Facebook
-d20cb374-cc44-4280-9b6c-1e52f247545d,John Jairo Rey Ortíz Abogado,2023-03-10T10:52:35.638Z,3d4b29d6-6eb4-4832-bd63-4b9dd3b1897e,ZZZ,Colombia,co,100534242988864,John Jairo Rey Ortíz Abogado,Facebook
-e23c1d5d-7b49-4eff-8a37-06a753deabb0,Academia ALAS,2023-11-27T07:56:04.735Z,dc7b26dd-3ef6-4227-a0fe-55303f673907,ZZZ,Colombia,co,1473745472955382,Academia ALAS,Facebook
-36dc5a76-70ba-42f7-9f6f-e9c74a43892f,JC Abogados y Asociados,2023-03-05T10:52:50.884Z,9a6bdec9-fa87-4a76-bd03-43e2c143a325,ZZZ,Colombia,co,1260473444033420,JC Abogados y Asociados,Facebook
-0f1a4ddf-094f-4371-a082-0d7ca0074dc8,VR Abogados Laboralistas,2023-08-20T05:07:08.619Z,6ca64963-c589-4e60-828a-0cc30c6e2e0c,ZZZ,Colombia,co,104793382530801,VR Abogados Laboralistas,Facebook
-345ac686-b2a9-4d7c-ba46-8b3cf742b46e,WPC & Abogados Asociados,2023-12-09T05:06:06.343Z,c6cf2a24-f78e-426a-b044-7a1d12ec067e,ZZZ,Colombia,co,108246322284673,WPC & Abogados Asociados,Facebook
-1a87ca45-d2c2-45d3-a729-53c48a6101d0,Abogado. César Augusto Leiva Ricardo,2023-08-01T05:07:18.913Z,596e03b9-a13c-4db5-8f06-c371f78fede7,ZZZ,Colombia,co,103033228910741,Abogado. César Augusto Leiva Ricardo,Facebook
-f439af48-4275-4882-bde1-2fa1b1f9823e,Arte Internacional Academia,2023-02-26T10:52:50.660Z,4caf77c5-ade8-4fde-a873-6b589ecdeb8d,ZZZ,Colombia,co,972162766271021,Arte Internacional Academia,Facebook
-41d5d795-e943-4bfe-9e70-9626da3b853d,solvensabogados,2023-03-08T19:31:10.674Z,d1112d3c-bab6-48d3-8aad-80f36f994037,ZZZ,Colombia,co,115678154690312,solvensabogados,Facebook
-a7182463-5e1c-41e8-9e29-c18016422a99,Abogado Alejo Bermúdez Valencia,2023-09-11T05:06:39.637Z,b7ecfe1b-94e7-461d-9ee0-3ea8392e9ffe,ZZZ,Colombia,co,375838619865790,Abogado Alejo Bermúdez Valencia,Facebook
-84be308e-f23e-4c3e-a3fa-f5304e0ddc7a,Yasmin Noriega - EntreAbogados,2023-04-27T06:52:28.005Z,fb6d9cea-dc22-465f-acbf-704eceb903de,ZZZ,Colombia,co,600388847123508,Yasmin Noriega - EntreAbogados,Facebook
-ef297224-303e-4571-bc1d-7d1711688e7c,Carlos Villarraga Abogado Penalista y Criminólogo,2023-07-17T06:31:39.510Z,7947b630-4891-4ef5-a6d7-9c062bd34db2,ZZZ,Colombia,co,108730934641867,Carlos Villarraga Abogado Penalista y Criminólogo,Facebook
-720e6f7a-0e95-4215-9bd2-e71523fb1de1,Marlon Ehrhardt & Abogados,2023-04-21T06:52:38.734Z,a189b626-e4e9-40c1-b2c9-24082f4b8c8a,ZZZ,Colombia,co,101523468824500,Marlon Ehrhardt & Abogados,Facebook
-273ee253-874a-4975-9eb9-879de2f0455d,Soto Luna Abogados,2023-08-07T05:07:31.688Z,c275e2ef-970d-4233-aa6e-fb3765c8313c,ZZZ,Colombia,co,104970388121741,Soto Luna Abogados,Facebook
-600d259f-dc53-40cc-8324-dd30561baf77,12 Tablas Digital - Academia de habilidades para Abogados,2023-08-14T05:06:43.369Z,746a459f-f8b8-4cd1-b0f1-da85f1bdf4d2,ZZZ,Colombia,co,100631515092729,12 Tablas Digital - Academia de habilidades para Abogados,Facebook
-5a2e3bf6-bc29-4c5f-8b83-33f454b89a39,abogadojorgenunezs,2023-10-29T05:07:09.927Z,ca17edb3-2cb9-442a-aea4-dae4ccf11fa6,ZZZ,Colombia,co,150696368128051,abogadojorgenunezs,Facebook
-e9db77af-e1cd-4084-8313-9df8388c6798,Abogadoscucuta,2023-04-30T06:52:07.754Z,066f49f1-e00b-44a6-a0d6-ab58b4b24fbb,ZZZ,Colombia,co,642444715922915,Abogadoscucuta,Facebook
-e6791c76-257f-4c36-a27b-eb575ce3192f,Abogados Asociados civil familia,2023-10-02T05:06:14.873Z,294b2b3e-80ad-4fb1-8672-c57bbbae9d98,ZZZ,Colombia,co,110613808413271,Abogados Asociados civil familia,Facebook
-dd1014ae-8736-4707-847a-2c7c13cb5f79,Academia Yaneth Llanos Oficial,2023-09-13T05:06:20.964Z,16bafbfc-9edb-49ae-90b7-9f262846e090,ZZZ,Colombia,co,103285579277456,Academia Yaneth Llanos Oficial,Facebook
-505e7c19-5c94-409d-bcff-6797f3bec793,Abogado Elkin Lopez,2023-10-19T05:06:39.433Z,c410c5f7-6168-46cc-b750-6d145af24701,ZZZ,Colombia,co,109937764803191,Abogado Elkin Lopez,Facebook
-c06d561c-25de-4ab7-83a8-c48b3a8c0bd6,Academia de Locución Para Radio y Televisión ARTV,2023-07-17T06:31:38.997Z,ecf9da63-0602-4df8-8133-9935bff13343,ZZZ,Colombia,co,494989867300388,Academia de Locución Para Radio y Televisión ARTV,Facebook
-bad103aa-f54b-4c73-9f05-df7cf71cdaaa,Abogado Jhoel Villamizar,2023-10-29T05:07:08.188Z,d6fc649f-2275-458e-b932-3743ba6b9095,ZZZ,Colombia,co,622805764798222,Abogado Jhoel Villamizar,Facebook
-53722c62-25d1-4fef-bf6c-35b452570513,GUERRERO ABOGADOS,2023-11-19T05:06:13.194Z,963c144c-f7bd-4c2a-9998-ab8f53ac4ee9,ZZZ,Colombia,co,936824826380282,GUERRERO ABOGADOS,Facebook
-a9a6826c-d345-4434-8de6-bf117e03d140,Abogado Jesús Libardo Revelo,2023-10-02T05:06:14.808Z,1863bf94-ae38-4ce5-8483-69d1399f6be8,ZZZ,Colombia,co,106085715925294,Abogado Jesús Libardo Revelo,Facebook
-4f05ea4f-806d-43d2-ac94-f9ed2c38dce6,Celebrity Academia,2023-03-23T10:52:38.548Z,4a517209-ee5c-4264-aa6f-34159e49a048,ZZZ,Colombia,co,137301826912422,Celebrity Academia,Facebook
-5f65d9fd-bd78-48c5-b423-f6d1d4813362,Roso abogados,2023-10-19T05:06:39.376Z,7fd956dc-b3bf-4b89-958a-098b6e790514,ZZZ,Colombia,co,1296334387153115,Roso abogados,Facebook
-6660910c-1416-4552-aeaa-a7dfd81bab4b,abogadosconsultoreshyc,2023-11-01T05:06:55.215Z,59d03a3f-1ee5-4dc4-a888-913dcf63a163,ZZZ,Colombia,co,104835969205078,abogadosconsultoreshyc,Facebook
-e8b5fbc0-19e5-4900-87c4-3f641f5d439e,Academia Mr.Criss,2023-06-19T18:24:30.917Z,7bbea565-7231-49f8-a358-ee21599d23e1,ZZZ,Colombia,co,109020118437842,Academia Mr.Criss,Facebook
-c9ba67f3-50d1-4c21-b77e-20be8b3064ad,Academia do mayor,2023-04-11T10:52:20.732Z,481e2ec6-a9f3-4a23-a24f-12ac567988b9,ZZZ,Colombia,co,838954789770609,Academia do mayor,Facebook
-12d4714a-c2e3-4560-a8e4-7ad984039319,Abogado Adadier Perdomo Urquina,2023-06-10T06:52:23.627Z,c5e61c7f-3450-40f3-8b87-0f9d10e3e8c2,ZZZ,Colombia,co,2532874586938013,Abogado Adadier Perdomo Urquina,Facebook
-2fa0a324-44e0-49fd-8c7a-135270b8430d,Ehrlich Abogados Sas,2023-06-12T06:52:25.547Z,a9c48146-5459-4e7b-af21-14f44d1d67c6,ZZZ,Colombia,co,106887310926991,Ehrlich Abogados Sas,Facebook
+0a6ab2ad-6d12-4f09-bdec-c96330daf27a,Academia Ross Mary,2023-07-07T13:15:51.730Z,aa74fd0f-709d-4647-8718-a5fa903981b0,ZZZ,Colombia,co,1610792219030527,Academia Ross Mary,Facebook
+303b9658-d56c-4759-88af-c6f4668d07a1,Ricardo Giraldo Abogados,2023-07-13T06:24:49.906Z,4e523415-aae7-4cd1-a928-464f4fcd6e13,ZZZ,Colombia,co,118632684582919,Ricardo Giraldo Abogados,Facebook
+1cd7f738-db1b-4c47-9499-560ac220d325,Academia de conduccion ovallos c&d,2023-02-08T05:55:36.380Z,e6f9e752-f151-4793-b736-3f0841d35d45,ZZZ,Colombia,co,105039621015106,Academia de conduccion ovallos c&d,Facebook
+c06d561c-25de-4ab7-83a8-c48b3a8c0bd6,Academia de Locución Para Radio y Televisión ARTV,2023-07-17T06:31:38.997Z,cb166e12-562f-4393-ba48-22c4ecf2dcb1,ZZZ,Colombia,co,494989867300388,Academia de Locución Para Radio y Televisión ARTV,Facebook
+600d259f-dc53-40cc-8324-dd30561baf77,12 Tablas Digital - Academia de habilidades para Abogados,2023-08-14T05:06:43.369Z,f72cd9c5-6732-4f3c-be3e-6ceb3f6692b7,ZZZ,Colombia,co,100631515092729,12 Tablas Digital - Academia de habilidades para Abogados,Facebook
+3946e99d-7153-4a1b-8b00-68a120311569,Avenicio Abogado & Asociados,2023-08-18T05:06:54.854Z,a6c99082-343b-4393-9fbd-c980e299d058,ZZZ,Colombia,co,1049839801859984,Avenicio Abogado & Asociados,Facebook
+0f1a4ddf-094f-4371-a082-0d7ca0074dc8,VR Abogados Laboralistas,2023-08-20T05:07:08.619Z,0540b284-0670-4964-993f-d49e13a6c4cd,ZZZ,Colombia,co,104793382530801,VR Abogados Laboralistas,Facebook
+bcbe7470-d7c9-4f80-a71c-6a9f81b5b01d,EstradaysanchezAbogados,2023-08-21T05:07:17.173Z,91a942a6-b827-4334-840a-6bc0fb8ca76c,ZZZ,Colombia,co,121867442540105,EstradaysanchezAbogados,Facebook
+a7182463-5e1c-41e8-9e29-c18016422a99,Abogado Alejo Bermúdez Valencia,2023-09-11T05:06:39.637Z,d09222eb-a379-433e-a4b5-6e2b87cb836e,ZZZ,Colombia,co,375838619865790,Abogado Alejo Bermúdez Valencia,Facebook
+ec732ba0-ede2-48b8-9746-6c10c9c91fea,Nisimblat Lawyers Oficina de Abogados,2023-03-08T17:23:02.452Z,cd51a20e-7f30-4d6a-be84-170e164d4bd7,ZZZ,Colombia,co,108620774140165,Nisimblat Lawyers Oficina de Abogados,Facebook
+bad103aa-f54b-4c73-9f05-df7cf71cdaaa,Abogado Jhoel Villamizar,2023-10-29T05:07:08.188Z,851e1507-dd73-4dd4-bea8-49d9800a6d18,ZZZ,Colombia,co,622805764798222,Abogado Jhoel Villamizar,Facebook
+5a2e3bf6-bc29-4c5f-8b83-33f454b89a39,abogadojorgenunezs,2023-10-29T05:07:09.927Z,2d994e4c-ce24-429f-9fa4-dab926846517,ZZZ,Colombia,co,150696368128051,abogadojorgenunezs,Facebook
+d43a7205-3e3f-4e10-a83d-f051bfff3e5d,PSA Abogados Empresarial,2023-03-08T20:13:34.934Z,a584a34b-967b-47db-b88c-47ef1208393d,ZZZ,Colombia,co,101746488178952,PSA Abogados Empresarial,Facebook
+18f51c47-6e7c-456c-9ea0-31ef7649bbef,Bonilla Perlaza Abogados,2023-10-01T05:06:44.877Z,91bab653-0844-4c7e-bf39-73a56184be4c,ZZZ,Colombia,co,385520915191657,Bonilla Perlaza Abogados,Facebook
+6a24ea26-da4d-4855-a68c-f1b9883c6670,Liliana Támara,2023-10-02T05:06:15.614Z,4fa45ec1-3e02-4278-a9c5-2bfc03b19f73,ZZZ,Colombia,co,122652437601279,Liliana Támara,Facebook
+0520df0e-1169-4e1f-b723-ad7f605ec169,Academia De Belleza Herman,2023-03-25T10:52:19.038Z,b62d78bb-0783-4b51-b472-94f8ece4f44f,ZZZ,Colombia,co,209951072431179,Academia De Belleza Herman,Facebook
+c0f49c33-7bff-48cc-b488-4c8f50e050eb,Academia Americana de Inglés,2023-10-12T05:08:58.992Z,8fab4854-fe6b-4a5d-91b1-d2371fe96a9f,ZZZ,Colombia,co,111286938517108,Academia Americana de Inglés,Facebook
+84be308e-f23e-4c3e-a3fa-f5304e0ddc7a,Yasmin Noriega - EntreAbogados,2023-04-27T06:52:28.005Z,a870f3a9-cd38-4aef-9f4a-703fa2a62416,ZZZ,Colombia,co,600388847123508,Yasmin Noriega - EntreAbogados,Facebook
+345ac686-b2a9-4d7c-ba46-8b3cf742b46e,WPC & Abogados Asociados,2023-12-09T05:06:06.343Z,472cc8c7-9aa5-40c2-b98a-925e1798307e,ZZZ,Colombia,co,108246322284673,WPC & Abogados Asociados,Facebook
+b390f0c4-4a74-4bfa-8187-8984d1d8e487,ɪᴜꜱ ᴇʟᴇᴄᴛɪ ᴀʙᴏɢᴀᴅᴏs,2023-11-18T05:06:28.752Z,1dbfcf4f-612f-427b-9db9-51128d6a688f,ZZZ,Colombia,co,106058462189530,ɪᴜꜱ ᴇʟᴇᴄᴛɪ ᴀʙᴏɢᴀᴅᴏs,Facebook
+e9db77af-e1cd-4084-8313-9df8388c6798,Abogadoscucuta,2023-04-30T06:52:07.754Z,b9e3faa6-caca-41f2-b19c-51c930633e7d,ZZZ,Colombia,co,642444715922915,Abogadoscucuta,Facebook
+53722c62-25d1-4fef-bf6c-35b452570513,GUERRERO ABOGADOS,2023-11-19T05:06:13.194Z,776f9565-d6d1-413e-b4f0-15d28d17e7dd,ZZZ,Colombia,co,936824826380282,GUERRERO ABOGADOS,Facebook
+ccfcd219-68cf-45ed-aa78-6bb5c8c57b31,jsrabogado,2023-06-23T05:16:16.708Z,03aaf8fe-42a2-47ab-96a3-111a827bc009,ZZZ,Colombia,co,102823732771206,jsrabogado,Facebook
+a97994db-50e1-4467-b420-c667d7ab4405,Tu Abogado Laboralista,2023-06-24T06:46:58.724Z,cb238ec6-59e3-4802-a10f-7444fbe4c781,ZZZ,Colombia,co,292481564978722,Tu Abogado Laboralista,Facebook
+45b804b2-4d27-4873-adb3-07b6d6c58f6d,Juridgroup Abogados,2023-06-26T05:07:47.231Z,f398408c-ba09-42f4-a7ac-ac54ef440deb,ZZZ,Colombia,co,1723577177928669,Juridgroup Abogados,Facebook
+e7df3a02-c5a0-4e58-a76b-1ff767f271db,Carlos Alfredo García - Abogado,2023-02-07T15:05:56.862Z,7f5ce6bd-6632-4962-8acf-80326b2d7dcc,ZZZ,Colombia,co,1588561874548381,Carlos Alfredo García - Abogado,Facebook
+18158668-d5f1-4f6d-84c3-01c0e4e9a898,Colectivo de Abogados,2023-02-07T15:05:56.804Z,4b00b471-d3da-4aec-903e-f81b796644bf,ZZZ,Colombia,co,75884689790,Colectivo de Abogados,Facebook
+ef297224-303e-4571-bc1d-7d1711688e7c,Carlos Villarraga Abogado Penalista y Criminólogo,2023-07-17T06:31:39.510Z,fa0af898-ff98-4be2-b224-7a29abc290c5,ZZZ,Colombia,co,108730934641867,Carlos Villarraga Abogado Penalista y Criminólogo,Facebook
+1a87ca45-d2c2-45d3-a729-53c48a6101d0,Abogado. César Augusto Leiva Ricardo,2023-08-01T05:07:18.913Z,f0754b76-7006-495c-8ba3-b804da4b3846,ZZZ,Colombia,co,103033228910741,Abogado. César Augusto Leiva Ricardo,Facebook
+d20cb374-cc44-4280-9b6c-1e52f247545d,John Jairo Rey Ortíz Abogado,2023-03-10T10:52:35.638Z,57fa3211-77d6-4848-9e80-350192f84848,ZZZ,Colombia,co,100534242988864,John Jairo Rey Ortíz Abogado,Facebook
+a9a6826c-d345-4434-8de6-bf117e03d140,Abogado Jesús Libardo Revelo,2023-10-02T05:06:14.808Z,b8967d35-58df-4aa6-ad0b-cdd662c9345e,ZZZ,Colombia,co,106085715925294,Abogado Jesús Libardo Revelo,Facebook
+e6791c76-257f-4c36-a27b-eb575ce3192f,Abogados Asociados civil familia,2023-10-02T05:06:14.873Z,2fb7eb8c-335e-4617-af3c-e24953b43633,ZZZ,Colombia,co,110613808413271,Abogados Asociados civil familia,Facebook
+c2beb1ea-d35e-4544-8beb-20b8ea894411,KM Abogados SAS,2023-12-11T06:41:01.378Z,8a079ca7-b2f9-4a75-9fbb-97a91bfada4d,ZZZ,Colombia,co,1718079098422205,KM Abogados SAS,Facebook
+547049d8-02f4-494d-81af-5f3f85c4c630,B & V Abogados,2023-12-03T05:06:32.529Z,b57c713d-adc0-4b84-824c-5d03cbaeea4b,ZZZ,Colombia,co,391368718341581,B & V Abogados,Facebook
+6660910c-1416-4552-aeaa-a7dfd81bab4b,abogadosconsultoreshyc,2023-11-01T05:06:55.215Z,953e2a5a-953e-45de-bbfc-bf04952c3c10,ZZZ,Colombia,co,104835969205078,abogadosconsultoreshyc,Facebook
+eff1ff9a-1092-44dc-81f0-3bf95d6a99fe,Aiala Juris Abogados,2023-04-16T15:04:46.077Z,94b882cd-60d7-4062-9fa7-9cafb697cb1d,ZZZ,Colombia,co,101360308679529,Aiala Juris Abogados,Facebook
+720e6f7a-0e95-4215-9bd2-e71523fb1de1,Marlon Ehrhardt & Abogados,2023-04-21T06:52:38.734Z,6af7273d-9c94-498f-97e1-fc09b12ee9b7,ZZZ,Colombia,co,101523468824500,Marlon Ehrhardt & Abogados,Facebook
+916f829a-78aa-4253-97d3-e59fd7fe8bbd,Jairo A. Tobaria,2023-05-23T06:52:41.400Z,49e4c2d6-c1b9-44da-b19d-a1a5e74c2b22,ZZZ,Colombia,co,108163305403611,Jairo A. Tobaria,Facebook
+e23c1d5d-7b49-4eff-8a37-06a753deabb0,Academia ALAS,2023-11-27T07:56:04.735Z,50990bdf-6b06-4db1-9ead-2392ef1057d1,ZZZ,Colombia,co,1473745472955382,Academia ALAS,Facebook
+f439af48-4275-4882-bde1-2fa1b1f9823e,Arte Internacional Academia,2023-02-26T10:52:50.660Z,d5957622-d25f-41ac-a5fd-dbf412517c2d,ZZZ,Colombia,co,972162766271021,Arte Internacional Academia,Facebook
+dd1014ae-8736-4707-847a-2c7c13cb5f79,Academia Yaneth Llanos Oficial,2023-09-13T05:06:20.964Z,e51f8bd5-e25e-4428-9b45-6094a1f7abc4,ZZZ,Colombia,co,103285579277456,Academia Yaneth Llanos Oficial,Facebook
+4f05ea4f-806d-43d2-ac94-f9ed2c38dce6,Celebrity Academia,2023-03-23T10:52:38.548Z,0ab7f28e-0f61-48d9-a24d-ce83d330ba25,ZZZ,Colombia,co,137301826912422,Celebrity Academia,Facebook
+c9ba67f3-50d1-4c21-b77e-20be8b3064ad,Academia do mayor,2023-04-11T10:52:20.732Z,30083996-1741-431e-9981-7cbc6d6420ec,ZZZ,Colombia,co,838954789770609,Academia do mayor,Facebook
+2cb2e456-e410-4d96-bbc0-884dd3970fd8,Andap Nacional,2023-05-08T06:52:21.063Z,051cbde2-0ce0-412a-a71a-f7b56418c107,ZZZ,Colombia,co,517403111646259,Andap Nacional,Facebook
+353d793b-ae3e-4266-9ae0-b280c6f3b78d,Academia de arte y teatrino Don Eloy,2023-10-22T05:06:47.189Z,82256e43-ec13-492b-b645-7286cb4471b4,ZZZ,Colombia,co,256572477846550,Academia de arte y teatrino Don Eloy,Facebook
+e8b5fbc0-19e5-4900-87c4-3f641f5d439e,Academia Mr.Criss,2023-06-19T18:24:30.917Z,fe58fd17-10ec-434e-afd4-5c463d7d070f,ZZZ,Colombia,co,109020118437842,Academia Mr.Criss,Facebook
+273ee253-874a-4975-9eb9-879de2f0455d,Soto Luna Abogados,2023-08-07T05:07:31.688Z,a98e0c94-e332-4f6c-b890-61d76b7e311a,ZZZ,Colombia,co,104970388121741,Soto Luna Abogados,Facebook
+e3d1583c-990e-4f8b-93d0-6c3aa730c12c,Isaías Corredor Abogado,2023-07-17T09:52:06.911Z,0714a402-e33b-4c27-afc0-6597fda8cd98,ZZZ,Colombia,co,101547452482548,Isaías Corredor Abogado,Facebook
+36dc5a76-70ba-42f7-9f6f-e9c74a43892f,JC Abogados y Asociados,2023-03-05T10:52:50.884Z,f630742c-a825-4fbf-bf89-79baa96d1f1f,ZZZ,Colombia,co,1260473444033420,JC Abogados y Asociados,Facebook
+41d5d795-e943-4bfe-9e70-9626da3b853d,solvensabogados,2023-03-08T19:31:10.674Z,58264847-d282-4a7f-9fa8-71fa22638e92,ZZZ,Colombia,co,115678154690312,solvensabogados,Facebook
+505e7c19-5c94-409d-bcff-6797f3bec793,Abogado Elkin Lopez,2023-10-19T05:06:39.433Z,d81c3e1b-d3a3-4634-a252-4194ab3d61af,ZZZ,Colombia,co,109937764803191,Abogado Elkin Lopez,Facebook
+5f65d9fd-bd78-48c5-b423-f6d1d4813362,Roso abogados,2023-10-19T05:06:39.376Z,cb14fcf0-3942-4352-a9d6-10d6497dfbd5,ZZZ,Colombia,co,1296334387153115,Roso abogados,Facebook
+12d4714a-c2e3-4560-a8e4-7ad984039319,Abogado Adadier Perdomo Urquina,2023-06-10T06:52:23.627Z,3e91c7b4-426d-45f5-9f7b-f08295287d05,ZZZ,Colombia,co,2532874586938013,Abogado Adadier Perdomo Urquina,Facebook
+2fa0a324-44e0-49fd-8c7a-135270b8430d,Ehrlich Abogados Sas,2023-06-12T06:52:25.547Z,687ab2ce-bf90-4a90-a881-8ebdc28dbfbe,ZZZ,Colombia,co,106887310926991,Ehrlich Abogados Sas,Facebook
+f921899b-68e8-4c94-9698-f2dd1d88b1ec,Sterling Lawyers Abogados,2023-11-10T06:23:06.593Z,c9f12469-aa78-487c-b1eb-8ac52b6a7d4a,ZZZ,Colombia,co,111768733629155,Sterling Lawyers Abogados,Facebook
